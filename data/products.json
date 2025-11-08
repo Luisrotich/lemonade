@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1762603096318,
+    "name": "Nokia Turbo",
+    "price": 200,
+    "description": "Nokia Turbo Pro 5G 2025 Price, Full Specs, [Updated]",
+    "category": "nokia",
+    "stock": 1000,
+    "status": "active",
+    "image": "/uploads/product_1762603096314.png",
+    "createdAt": "2025-11-08T11:58:16.318Z",
+    "updatedAt": "2025-11-08T13:24:17.657Z"
+  },
+  {
+    "id": 1762603322458,
+    "name": "Apple iPhone 11",
+    "price": 700,
+    "description": "64GB - Purple  Good Condition",
+    "category": "Apple",
+    "stock": 677,
+    "status": "active",
+    "image": "/uploads/product_1762603322453.png",
+    "createdAt": "2025-11-08T12:02:02.458Z",
+    "updatedAt": "2025-11-08T13:24:53.717Z"
+  }
+]
